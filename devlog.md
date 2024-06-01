@@ -67,4 +67,5 @@ data: array of [status, time]
 8. ctrl+shift+o to auto organise imports
 9. now we have text and update time displayed
 ![alt text](image.png)
-10. got emoji by copying from messenger, styled emoji with css
+10. got emoji by copying from messenger, styled emoji with css, it's now complete
+
