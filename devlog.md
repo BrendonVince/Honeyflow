@@ -69,3 +69,5 @@ data: array of [status, time]
 ![alt text](image.png)
 10. got emoji by copying from messenger, styled emoji with css, it's now complete
 
+# Updating flow status
+1. Alt+ shift_ down duplicates line under status,time

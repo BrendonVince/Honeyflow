@@ -9,6 +9,7 @@ const C = {
 // input data: array of [status, time]
 const data: [string, string][] = [
   [C.NOT_FLOWING, "2024-06-01T12:58:00+10:00"],
+  [C.FLOWING, "2024-06-02T11:49:00+10:00"],
 ]
 
 function App() {
