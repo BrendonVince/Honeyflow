@@ -71,3 +71,8 @@ data: array of [status, time]
 
 # Updating flow status
 1. Alt+ shift_ down duplicates line under status,time
+2. Commit with message
+
+# Add Background image for flowing/not-flowing
+1. Add background image for flowing state and not flowing state
+2. 
