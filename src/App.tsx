@@ -12,6 +12,7 @@ const data: [string, string][] = [
   [C.FLOWING, "2024-06-02T11:49:00+10:00"],
   [C.NOT_FLOWING, "2024-06-03T16:00:00+10:00"],
   [C.NOT_FLOWING, "2024-06-04T11:53:00+10:00"],
+  [C.NOT_FLOWING, "2024-06-04T11:15:00+10:00"],
 ]
 
 function App() {
